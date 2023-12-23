@@ -12,3 +12,7 @@ redirecting ...
 [https://www.linkedin.com/in/henry-saya/]
 HMU ^^^
 ```
+- [x] Checked Github profile
+- [x] Linked in connected +
+- [ ] Tender offer contracts and terms
+
